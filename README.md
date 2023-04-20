@@ -258,3 +258,54 @@ for(let i = 0; i < 3; i++){
 }
 
 ```
+
+## Aula 03
+
+## HTML Semántico
+
+- Articles ou Sections?
+
+Usamos Articles quando nosso conteudo está relacionada a algo na pagina, como a informação de um usuario,
+
+- Sections
+
+Separa conteudos que fazem sentido no contexto da página.
+
+## Nav, Header , Footer e Aside
+
+- Nav
+
+Nav normalmente é usado para navegação em uma pagina, como um menu de navegação.
+
+- Header
+
+Usado é para identificar a área principal da pagina
+
+- Footer
+
+Usado para conteudos no fim da pagina, como contatos, links, sobree e etc.
+
+- Aside
+
+Usado mais para conteudos "Laterais"
+
+## Figure , Figpaction e Img
+
+- Figure
+  é um "container" semantico para incluir imagens
+
+- Figcaption
+  é uma descrição da imagem
+
+- Img
+
+é a forma que incluimos imagens em nosso HTML.
+
+## Seo
+
+Escrever um bom HTML é importante por diversos fatores
+
+- Melhora a busca do nossos paginas em sites de buscas
+- Ajuda os eleitores de telas
+- Acessibilidade
+- Um bom HTML ajuda a escrever um bom CSS
