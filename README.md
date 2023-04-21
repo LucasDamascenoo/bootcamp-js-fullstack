@@ -309,3 +309,44 @@ Escrever um bom HTML é importante por diversos fatores
 - Ajuda os eleitores de telas
 - Acessibilidade
 - Um bom HTML ajuda a escrever um bom CSS
+
+## Aula 04
+
+## Cliente - Servidor
+
+Toda vez que estamos utilizando algum serviço online somos os clientes e tudo que vemos está alocada em um servidor.
+
+Cliete (Usuario) faz um requisição para o Servidor que retornar com os dados solicitados.
+
+## Formularios
+
+- Label
+
+- Inputs
+
+- Fieldset
+
+- legend
+
+## Diferença de Links e Botoes
+
+Links usados como "botoes" servem para navegar em seções entre nossa pagina, ou algo externo, já os botoes servem para enviar dados.
+
+## Json
+
+Json(Javascript object notation) é usado para armazenar/partilhar dados em aplicações web entre o cliente/servidor, seu formato é parecido com Objetos em Js, a diferença que nas "chaves" é usado aspas duplas " "
+
+```javascript
+
+{
+"nome": "Lucas",
+"idade": 28,
+"ocupação": "Analista de dados"
+
+},
+
+```
+
+## Dom
+
+é a representação em forma de "arvore" dos elemntos HTML que podem ser acessados e modificados por javaScript
