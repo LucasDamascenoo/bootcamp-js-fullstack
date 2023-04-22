@@ -350,3 +350,13 @@ Json(Javascript object notation) é usado para armazenar/partilhar dados em apli
 ## Dom
 
 é a representação em forma de "arvore" dos elemntos HTML que podem ser acessados e modificados por javaScript
+
+# Semana 03
+
+## Aula 01
+
+## Flexbox terminologia
+
+- FlexContainer
+
+- Flex items
