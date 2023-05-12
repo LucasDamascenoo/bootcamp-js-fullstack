@@ -1,0 +1,28 @@
+html,
+body {
+  height: 100%;
+  box-sizing: border-box;
+}
+
+* {
+  box-sizing: inherit;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  flex-wrap: wrap;
+
+  border: 2px dashed rebeccapurple;
+  height: 100%;
+}
+
+.item {
+  border: 1px solid coral;
+  height: 50px;
+  width: 200px;
+  background-color: papayawhip;
+}

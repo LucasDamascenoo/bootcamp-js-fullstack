@@ -359,4 +359,24 @@ Json(Javascript object notation) é usado para armazenar/partilhar dados em apli
 
 - FlexContainer
 
+Quando utitlizamos a propriedade **display-flex** o elemento vira um flexcontainer
+
 - Flex items
+
+Tudo que tiver dentro de um flex-container se transforma em um "filho" que chamamos de flex itens
+
+- Flex Wrap
+
+Quebra o conteudo quando atingir o limite total da tela
+
+- Flex Direction
+
+Muda a direção dos flex-itens, por padrão é row (horizontal), columuns e suas variantes reversa.
+
+- Justify-content
+
+movimenta os flex-itens no eixo principal (horizontal)
+
+- Align-items
+
+movimenta os flex-itens no eixo secunrario (vertical)
