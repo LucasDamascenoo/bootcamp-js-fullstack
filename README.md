@@ -380,3 +380,89 @@ movimenta os flex-itens no eixo principal (horizontal)
 - Align-items
 
 movimenta os flex-itens no eixo secunrario (vertical)
+
+## Aula 02
+
+## Responsividade
+
+- Posicionamento com css
+
+- [x] Static
+- [x] Relative
+- [x] Absolute
+- [x] Fixed
+- [x] Sticky
+
+- O que é o design responsivo?
+
+Design responsivo tem relação com aplicações webs que se ajustam/adpatam a diversos layouts (celulares,tablets,notbooks)
+
+- Mobile First
+
+É uma "estratégia" de desenvolvimento onde consiste em primeiro fazer a aplicação para aplicativos moveis e ir subindo a escala, fazendo com que fique mais facil adaptar os elementos para telas maiores.
+
+**Mobile First em aplicações profissionais deve ter o layout desenvolvido para ser mobile first**
+
+- Design Layouts
+
+- Fluid Layouts
+
+São layouts que utilizamos medidas relativas, que vao se adaptando conforme cresce/diminui
+
+- Adaptive Layouts
+
+Utilizamos breakpoints para limitar os tamanhos, se adapta aos diversos tamanhos mas não é algo fuido.
+
+- Centered Layouts
+
+São paginas que podem ser fluidas, adaptativas mas dependendo do tamanho do monitor, todo o conteudo fica ao centro (de acordo com o tamanho determinado) e o que ultrapassa isso, fica preto.
+
+- Media Queries
+
+**Mobile First** : Quando criamos um layout mobile first criamos os componentes para serem mobiles, para telas maiores precisaremos das medias queries onde iremos utilizar (min-width)
+
+## Aula 03
+
+### Estruturas Modernas de um Projeto
+
+## Aula 04
+
+### Frameworks de UI
+
+- O que é uma biblioteca?
+
+Bibliotecas são conjuntos de blocos (codigos) pre-desenvolvido que podem ser reutilizados e que nos facilita em nossas aplicações.
+
+Exemplos de Bibliotecas web.
+
+- React
+- Vue
+- Angular
+- Redux
+
+- O que é um Framework?
+
+frameworks são estruturas pré-definidas que fornecem diretrizes, ferramentas e bibliotecas para facilitar o desenvolvimento de aplicativos e sites da web. Eles ajudam os programadores a serem mais eficientes, fornecendo uma base sólida e reutilizável para seus projetos.
+
+Exemplos de Frameworks web.
+
+- NextJs
+- Laravel
+
+- Packages de Biblioteca
+
+- Package.json
+
+npm init -y cria um arquivo pachage.js que define as propriedades de nossos projetos
+
+- Frameworks de ui
+
+- Bootstrap
+- Tailwind
+- Bulma (menos pupular)
+
+# Semana 03
+
+## Aula 02
+
+### Datas em Javascript

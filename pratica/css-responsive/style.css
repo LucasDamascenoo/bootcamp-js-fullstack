@@ -1,0 +1,67 @@
+body {
+  background: whitesmoke;
+  color: #333;
+  font-size: 32px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+}
+
+nav {
+  display: grid;
+  place-items: center;
+  background: #2980b9;
+}
+
+header {
+  background: burlywood;
+}
+
+.content {
+  background: goldenrod;
+}
+
+.signup {
+  background: paleturquoise;
+}
+
+.feature {
+  background: palevioletred;
+}
+
+.feature:first-child {
+  background: royalblue;
+}
+
+section,
+header {
+  border: 2px solid rebeccapurple;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 300px;
+}
+
+@media screen and (min-width: 992px) {
+  .features {
+    display: flex;
+    order: 1;
+  }
+  .feature {
+    width: 100%;
+  }
+
+  .signup {
+    height: 100px;
+    min-height: auto;
+    order: 2;
+  }
+
+  .content {
+    order: 3;
+  }
+}
